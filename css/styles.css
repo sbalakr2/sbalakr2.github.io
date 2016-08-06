@@ -210,6 +210,13 @@ fieldset[disabled] .btn-xl.active {
   color: #333333;
   background-color: #ffffff;
 }
+.profile-pic{
+	margin-bottom: 30px;
+}
+.profile-pic img{
+	margin: 0 auto;
+}
+
 @media (min-width: 768px) {
   .navbar-custom {
     background-color: transparent;
@@ -271,7 +278,7 @@ header .intro-text .intro-heading {
 }
 @media (min-width: 768px) {
   header .intro-text {
-    padding-top: 300px;
+    padding-top: 200px;
     padding-bottom: 200px;
   }
   header .intro-text .intro-lead-in {
