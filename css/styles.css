@@ -224,6 +224,10 @@ a.nav-link{
 .img-star{
 	display:inline;
 }
+p.contact-text{
+	font-size: 15px;
+	text-align:center;
+}
 
 @media (min-width: 768px) {
   .navbar-custom {
