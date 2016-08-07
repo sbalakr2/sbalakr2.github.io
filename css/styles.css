@@ -217,6 +217,14 @@ fieldset[disabled] .btn-xl.active {
 	margin: 0 auto;
 }
 
+a.nav-link{
+	color: #333333;
+}
+
+.img-star{
+	display:inline;
+}
+
 @media (min-width: 768px) {
   .navbar-custom {
     background-color: transparent;
