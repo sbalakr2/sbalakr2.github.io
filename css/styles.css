@@ -792,3 +792,8 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #ffffff;
 }
+.pub-icons{
+	float: none;
+    margin: 0 auto;
+    text-align: center;
+}
